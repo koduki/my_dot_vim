@@ -25,5 +25,9 @@ filetype indent plugin on
 syntax enable
 set number
 set tabstop=4
-
+set hidden
+set showmatch
+set expandtab
+set incsearch
+set nocompatible
 
